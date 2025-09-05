@@ -438,7 +438,7 @@ ul li a:hover::after {
     text-align: left;
     width: 100%;
     color: var(--secondaryTextColor);
-    z-index: 100;
+    z-index: 5;
   }
   .dish img:hover {
     transform: scale(1.05);
